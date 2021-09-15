@@ -3,7 +3,7 @@
 #include<vector>
 
 // Classes and Objects, Access Specifiers,Encapsulation, Class Abstraction, Constructor ,
-// Inheritence and Polymorphism (function oberloading) concepts of OOPS are used.
+// Inheritence and Polymorphism (function overloading) concepts of OOPS are used.
 // Semaphores are used to resolve producer-consumer problem
 // stl (vector) is used to implement buffer queue
 
